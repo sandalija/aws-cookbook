@@ -1,0 +1,22 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.certificationsNotesSidebar.category.Tutorial - Basics": {
+    "message": "Tutorial - Basics",
+    "description": "The label for category 'Tutorial - Basics' in sidebar 'certificationsNotesSidebar'"
+  },
+  "sidebar.certificationsNotesSidebar.category.Tutorial - Basics.link.generated-index.description": {
+    "message": "5 minutes to learn the most important Docusaurus concepts.",
+    "description": "The generated-index page description for category 'Tutorial - Basics' in sidebar 'certificationsNotesSidebar'"
+  },
+  "sidebar.certificationsNotesSidebar.category.Tutorial - Extras": {
+    "message": "Tutorial - Extras",
+    "description": "The label for category 'Tutorial - Extras' in sidebar 'certificationsNotesSidebar'"
+  },
+  "sidebar.certificationsNotesSidebar.category.saa": {
+    "message": "saa",
+    "description": "The label for category 'saa' in sidebar 'certificationsNotesSidebar'"
+  }
+}
