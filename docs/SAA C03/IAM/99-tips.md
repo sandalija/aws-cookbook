@@ -1,0 +1,7 @@
+- Evitar el uso del usuario root para tareas diarias.
+- Un usuario de IAM por cada humano con acceso a AWS
+- Usar grupos de IAM para organizar usuarios y asignar permisos de manera eficiente.
+- Habilitar MFA para usuarios con privilegios elevados.
+- Definir política de contraseñas robustas
+- Usar roles de IAM para servicios y aplicaciones en lugar de usuarios con claves de acceso. No usar usuarios de IAM para servicios o aplicaciones que vayan a ejecutarse dentro de AWS.
+- Auditar regularmente el acceso de los usuarios a AWS
