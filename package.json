@@ -15,7 +15,6 @@
     "typecheck": "tsc",
     "release": "release-it",
     "prerelease": "release-it --preRelease",
-    "prepare": "husky",
     "commitlint": "commitlint --edit"
   },
   "dependencies": {
